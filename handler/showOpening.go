@@ -8,6 +8,8 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+// @BasePath /api/v1
+
 // @Summary Show opening
 // @Schemes
 // @Description Show a job opening
